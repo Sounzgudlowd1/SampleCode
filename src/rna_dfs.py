@@ -11,8 +11,6 @@ to ensure that all of the code runs properly.
 
 from DFS import DFS
 import pandas as pd
-from sklearn.preprocessing import LabelEncoder
-from keras.utils import to_categorical
 from sklearn.model_selection import train_test_split
 import numpy as np
 from sklearn.utils import resample
